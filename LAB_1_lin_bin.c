@@ -131,3 +131,11 @@ int lin_srch(int a[] , int i , int high , int key)
     }
 
 }
+
+output:
+data_size	bin	    lin
+1000	    0.094	0.078
+2000	    0.078	0.093
+3000	    0.094	0.094
+4000	    0.078	0.078
+5000	    0.094	0.094
